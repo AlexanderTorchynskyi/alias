@@ -1,0 +1,2 @@
+alias update='sudo apt-get update'
+alias fit='cd /home/alex/fit-dreams/'
